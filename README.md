@@ -1,5 +1,5 @@
 # YouAreAnIdiot-Recreation
-Reaction of famous "you are an idiot virus" aka offiz
+Recreation of famous "you are an idiot virus" aka offiz
 
 Live demo [here](https://ngn13.github.io/youareanidiot/index.html)
 
